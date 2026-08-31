@@ -1,0 +1,5 @@
+Gene: BRCA1
+Organism: Homo Sapiens (humans)
+NCBI GeneID: 672
+Uniprot Accession ID: P38398
+PDB ID: 2CP8
